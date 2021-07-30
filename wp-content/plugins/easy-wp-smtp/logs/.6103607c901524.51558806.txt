@@ -1,0 +1,7 @@
+[07/30/2021 2:14:20 AM] - Easy WP SMTP debug log file
+
+[07/30/2021 2:45:46 AM] - Headers: , To: thanh.kjz@gmail.com, Subject: Thông tin liên hệ
+[07/30/2021 2:49:24 AM] - Headers: , To: , Subject: 
+[07/30/2021 2:49:24 AM] - *** You must provide at least one recipient email address. ***
+[07/30/2021 2:50:45 AM] - Headers: , To: thanh.kjz@gmail.com, Subject: Thông tin liên hệ
+[07/30/2021 2:54:02 AM] - Headers: , To: thanh.kjz@gmail.com, Subject: Thông tin liên hệ

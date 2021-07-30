@@ -37,6 +37,7 @@ define( 'DB_CHARSET', 'utf8' );
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
@@ -56,6 +57,8 @@ define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
 define( 'NONCE_SALT',       'put your unique phrase here' );
 
 /**#@-*/
+
+define( 'DISALLOW_FILE_EDIT', true );
 
 /**
  * WordPress Database Table prefix.
